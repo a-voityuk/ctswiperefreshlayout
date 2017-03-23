@@ -1,0 +1,11 @@
+.DS_Store
+android/tmp
+android/libs
+android/bin
+android/build
+.apt_generated
+.classpath
+.idea
+.project
+.settings
+*.iml
